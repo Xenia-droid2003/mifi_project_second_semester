@@ -1,0 +1,6 @@
+Flask
+Waitress
+pandas
+joblib
+scikit-learn==1.8.0
+numpy
